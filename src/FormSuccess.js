@@ -6,7 +6,7 @@
             <div className="form-success">
                 We have received your request
             </div>
-            <img stc='img/img-3.svg' alt='success-image' 
+            <img src='img/img-3.svg' alt='success-image' 
             className='form-img-2' />
         </div>
      )
