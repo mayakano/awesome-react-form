@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Awesome React Form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React form created using React Hooks and some nice CSS
 
 ## Available Scripts
 
